@@ -116,6 +116,7 @@ const commands = {
                     <a href="mailto:contact@ttsec.net"><i class="fas fa-envelope"></i></a>
                     <a href="https://www.linkedin.com/in/taimoortalpur/" target="_blank"><i class="fab fa-linkedin"></i></a>
                     <a href="https://x.com/ttsec_" target="_blank"><i class="fab fa-twitter"></i></a>
+                    <a href="https://medium.com/@ttsec" target="_blank"><i class="fab fa-medium"></i></a>
                     <a href="https://github.com/tts3c" target="_blank"><i class="fab fa-github"></i></a>
                 </div>
             `.trim(), "system");
